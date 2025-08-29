@@ -14,12 +14,6 @@ This project demonstrates data cleaning, processing, and visualization in Excel 
   - Profitability Trends over Time  
 - 🎯 **Business Use Case:** Helps managers and decision-makers track performance and identify growth opportunities.  
 
----
-
-## 📂 Project Structure
-- `Ecommerce Sales Analysis Dashboard.xlsx` → The Excel interactive dashboard.  
-- `Sample Data/` (if included) → Cleaned dataset used for analysis.  
-- `Documentation/` (optional) → Additional project report or methodology.  
 
 ---
 
